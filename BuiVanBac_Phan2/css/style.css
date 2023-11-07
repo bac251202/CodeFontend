@@ -1,0 +1,17 @@
+.error {
+    border: 2px solid red;
+  }
+  .full{
+    width: 100%;
+  }
+
+.border{
+  background-color: green;
+  color: white;
+}
+.edit-button{
+  background-color: rgb(247, 212, 18);
+}
+.delete-button{
+  background-color: rgb(247, 212, 18);
+}
